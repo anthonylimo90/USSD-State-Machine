@@ -1,0 +1,17 @@
+{
+  "name": "ussd-state-machine",
+  "version": "1.0.0",
+  "description": "A flexible state machine for building USSD applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": ["ussd", "state-machine", "nodejs"],
+  "author": "ANTHONY KIPLIMO",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
